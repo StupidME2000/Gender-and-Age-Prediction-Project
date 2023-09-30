@@ -1,0 +1,5 @@
+Example(Type in the terminal) - py gad.py --image iruka.jpg
+
+Dataset 1 - https://www.kaggle.com/datasets/ttungl/adience-benchmark-gender-and-age-classification
+
+Dataset 2 - https://www.kaggle.com/datasets/jangedoo/utkface-new
